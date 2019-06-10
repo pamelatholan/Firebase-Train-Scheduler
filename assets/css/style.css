@@ -1,0 +1,29 @@
+.container {
+    background-color: black;
+  }
+
+  body {
+    background-image: url("../images/board.jpg");
+  }
+  
+  #heading {
+	font-family: 'Audiowide', cursive;
+	font-weight: bold;
+  }
+  
+  #subHeading {
+	font-family: 'Share Tech Mono', monospace;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .panel-title {
+    font-family: 'Share Tech Mono', monospace;
+	font-weight: bold;
+  }
+  
+  th {
+    font-family: 'Share Tech Mono', monospace;
+	font-weight: bold;
+  }
