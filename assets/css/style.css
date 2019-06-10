@@ -1,6 +1,5 @@
 .container {
     background-color: rgb(43, 42, 42);
-    /* background-color: black; */
     margin-top: 50px;
     padding: 10px;
   }
@@ -11,7 +10,7 @@
   }
 
   #heading {
-	font-family: 'Audiowide', cursive;
+	  font-family: 'Audiowide', cursive;
     font-weight: bold;
     color: rgb(255, 73, 1);
   }
@@ -43,5 +42,10 @@
   
   th {
     font-family: 'Share Tech Mono', monospace;
-	font-weight: bold;
+	  font-weight: bold;
+  }
+
+  label {
+    font-family: 'Share Tech Mono', monospace;
+
   }
