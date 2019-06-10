@@ -39,6 +39,13 @@
     font-size: 20px;
     color: rgb(57, 207, 95);
   }
+
+  #title {
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 73, 1);
+  }
   
   th {
     font-family: 'Share Tech Mono', monospace;
