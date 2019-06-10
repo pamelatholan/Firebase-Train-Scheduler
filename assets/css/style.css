@@ -4,12 +4,14 @@
   }
 
   body {
-    background-image: url("../images/board.jpg");
+    background-image: url("../images/board2.jpg");
+    background-size: cover;
   }
   
   #heading {
 	font-family: 'Audiowide', cursive;
-	font-weight: bold;
+    font-weight: bold;
+    color: rgb(245, 84, 10);
   }
   
   #subHeading {
@@ -18,10 +20,22 @@
     font-size: 20px;
     margin-top: 10px;
   }
+
+  #time {
+    font-family: 'Share Tech Mono', monospace;
+    font-style: bold;
+    margin-bottom: 5px;
+  }
+
+  #currentTime {
+    font-family: 'Share Tech Mono', monospace;
+    font-style: bold;
+  }
   
   .panel-title {
     font-family: 'Share Tech Mono', monospace;
-	font-weight: bold;
+    font-weight: bold;
+    color: rgb(57, 207, 95);
   }
   
   th {
