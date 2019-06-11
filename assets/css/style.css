@@ -4,6 +4,11 @@
     padding: 10px;
   }
 
+  .jumbotron {
+    background-color: rgb(94, 92, 92);
+    color: white;
+  }
+
   body {
     background-image: url("../images/board2.jpg");
     background-size: cover;
@@ -59,3 +64,4 @@
   #submit {
     font-family: 'Share Tech Mono', monospace;
   }
+
