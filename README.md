@@ -1,7 +1,7 @@
 ## Firebase-Train-Scheduler
 ## HW 6
 
-![Train Scheduler]()
+![Train Scheduler](https://github.com/pamelatholan/Firebase-Train-Scheduler/blob/master/assets/images/Train.PNG)
 
 * Create a train schedule application that incorporates Firebase to host arrival and departure data.
 * The website provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
