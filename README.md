@@ -1,5 +1,5 @@
 ## Firebase-Train-Scheduler
-## HW 6
+## HW 7
 
 ![Train Scheduler](https://github.com/pamelatholan/Firebase-Train-Scheduler/blob/master/assets/images/Train.PNG)
 
