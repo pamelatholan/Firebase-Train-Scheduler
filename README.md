@@ -1,19 +1,24 @@
-## Firebase-Train-Scheduler
+# Firebase Train Scheduler
 
-![Train Scheduler](https://github.com/pamelatholan/Firebase-Train-Scheduler/blob/master/assets/images/Train.PNG)
+Deployed on [GitHub Pages](https://pamelatholan.github.io/Firebase-Train-Scheduler/)
 
-* Create a train schedule application that incorporates Firebase to host arrival and departure data.
-* The website provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
-* The app uses Moment.js to retrieve and manipulate the times.
+#### A train schedule application that incorporates Firebase to host arrival and departure times.  The site provides up to date information about train's arrival times and how many minutes remain until they arrive at their station.
 
-* Basic Inclusions
-    * When adding trains, administrators should be able to submit the following:
-        * Train Name
-        * Destination 
-        * First Train Time -- in military time
-        * Frequency -- in minutes
-    * Code this app to calculate when the next train will arrive; this should be relative to the current time.
-    * Users from many different machines must be able to view same train times.
-    * Styling and theme.
+### How to Use:
+* Add a train by including the following:
+    * Train Name
+    * Destination 
+    * First Train Time -- in military time
+    * Frequency -- in minutes
 
-* I also added a button so trains could be deleted.
+* Delete a train by clicking the red x under the Remove column.
+
+### Tools/Languages Used:
+* MomentJS
+* Firebase
+* HTML
+* CSS
+* Bootstrap
+* JQuery
+* JavaScript
+* GoogleFonts
