@@ -1,5 +1,7 @@
 # Firebase Train Scheduler
 
+![Train](https://github.com/pamelatholan/Firebase-Train-Scheduler/blob/master/assets/images/Train.PNG)
+
 Deployed on [GitHub Pages](https://pamelatholan.github.io/Firebase-Train-Scheduler/)
 
 #### A train schedule application that incorporates Firebase to host arrival and departure times.  The site provides up to date information about train arrival times and how many minutes remain until they arrive at their station.
